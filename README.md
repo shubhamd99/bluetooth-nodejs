@@ -9,8 +9,8 @@ OR
 >>> install node-bluetooth --save  
 ```
 
-Link 1 - https://www.npmjs.com/package/node-bluetooth
-Link 2 - https://www.npmjs.com/package/bluetooth-serial-port
+##### Link 1 - https://www.npmjs.com/package/node-bluetooth
+##### Link 2 - https://www.npmjs.com/package/bluetooth-serial-port
 
 #### To Run the app
 ```
