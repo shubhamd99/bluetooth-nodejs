@@ -20,3 +20,5 @@ OR
 
 >>> node app2.js
 ```
+
+![alt text](https://i.imgur.com/rxvGRPM.jpg)
